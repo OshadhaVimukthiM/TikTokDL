@@ -12,10 +12,10 @@ downloads = './downloads/{}/'
 #Button
 START_BUTTONS=[
     [
-        InlineKeyboardButton('Source', url='https://github.com/X-Gorn/TikTokDL'),
-        InlineKeyboardButton('Project Channel', url='https://t.me/xTeamBots'),
+        InlineKeyboardButton('Source', url='https://github.com/OshadhaVimukthiM/TikTokDL'),
+        InlineKeyboardButton('Project Channel', url='https://t.me/wondercrack'),
     ],
-    [InlineKeyboardButton('Author', url='https://t.me/xgorn')],
+    [InlineKeyboardButton('Author', url='https://t.me/wondercrack')],
 ]
 
 DL_BUTTONS=[
